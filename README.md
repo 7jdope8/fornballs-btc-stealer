@@ -6,7 +6,7 @@ Add later
 - Run .exe file
 # TODO:
 
-- [ ] Remove Selenium from code
+- [x] Remove Selenium from code
 - [ ] Add more threads
 - [ ] Pack into exe
 - [ ] Port to linux
