@@ -3,8 +3,7 @@ Generates random Bitcoin addresses, then checks them online, to see if any depos
 # Dependencies
 Add later
 # Installation
-- Put <a href="https://chromedriver.chromium.org/downloads">chromedriver.exe</a> in root
-- Coming soon
+- Run .exe file
 # TODO:
 
 - [ ] Remove Selenium from code
