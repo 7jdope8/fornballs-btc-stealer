@@ -8,6 +8,7 @@ Add later
 # TODO:
 
 - [x] Remove Selenium from code
+- [ ] Make the tests local, instead of checking online
 - [ ] Add more threads
 - [ ] Pack into exe
 - [ ] Port to linux
