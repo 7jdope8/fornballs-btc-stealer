@@ -6,7 +6,6 @@ Add later
 ## Installation
 - Run .exe file
 ## TODO:
-
 - [x] Remove Selenium from code
 - [ ] Make the tests local, instead of checking online
 - [ ] Add more threads
